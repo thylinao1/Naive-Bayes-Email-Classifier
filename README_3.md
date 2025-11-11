@@ -210,32 +210,5 @@ Potential extensions to explore:
 
 ## 📚 References
 
-### Algorithms & Theory
-- Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory*
-- Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*
-- Murphy, K. P. (2012). *Machine Learning: A Probabilistic Perspective*
-
-### Applications
-- Sahami, M., et al. (1998). "A Bayesian approach to filtering junk e-mail"
-- Androutsopoulos, J., et al. (2000). "An evaluation of naive Bayesian anti-spam filtering"
-
-### Numerical Stability
-- Goldberg, D. (1991). "What every computer scientist should know about floating-point arithmetic"
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-Maksim Terpilowski
-- LinkedIn: [maksim-terpilowski](https://www.linkedin.com/in/maksim-terpilowski/)
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
 This implementation was built from scratch to understand the mathematical foundations of Naive Bayes classification and the critical importance of numerical stability in probabilistic machine learning.
 
----
-
-**Note**: This is an educational project emphasizing mathematical understanding and implementation best practices. For production spam filtering, consider mature libraries like scikit-learn or specialized solutions with additional features (header analysis, sender reputation, etc.).
